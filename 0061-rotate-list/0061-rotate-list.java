@@ -10,30 +10,51 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null || head.next==null) return head;
-        ListNode current=head;
-        ListNode dummy= new ListNode(0);
-        dummy.next=head;
-        int len=0;
-        while( current!=null){
+        if (head == null || head.next == null || k == 0) return head;
+        int len = 1;
+        ListNode tail = head;
+        while (tail.next != null) {
+            tail = tail.next;
             len++;
-            current=current.next;
         }
-        k=k%len;
-        if(k==0) return head;
-        int i=len-k;
-        current=head;
-        for(int j=0;j<i-1;j++){
-            current=current.next;
+        k = k % len;
+        if (k == 0) return head;
+        tail.next = head;
+        int stepsToNewTail = len - k - 1;
+        ListNode newTail = head;
+        for (int i = 0; i < stepsToNewTail; i++) {
+            newTail = newTail.next;
         }
-        dummy.next=current.next;
-        ListNode s=current.next;
-        while(s.next!=null){
-            s=s.next;
-        }
-        current.next=null;
-        s.next=head;
-        return dummy.next;
+        ListNode newHead = newTail.next;
+        newTail.next = null;
+        return newHead;
+
+        // if(head==null || head.next==null) return head;
+        // ListNode current=head;
+        // ListNode dummy= new ListNode(0);
+        // dummy.next=head;
+        // int len=0;
+        // while( current!=null){
+        //     len++;
+        //     current=current.next;
+        // }
+        // k=k%len;
+        // if(k==0) return head;
+        // int i=len-k;
+        // current=head;
+        // for(int j=0;j<i-1;j++){
+        //     current=current.next;
+        // }
+        // dummy.next=current.next;
+        // ListNode s=current.next;
+        // while(s.next!=null){
+        //     s=s.next;
+        // }
+        // current.next=null;
+        // s.next=head;
+        // return dummy.next;
+
+
         // if(head==null || head.next==null) return head;
         // ListNode current=head;
         // ListNode dummy= new ListNode(0);
