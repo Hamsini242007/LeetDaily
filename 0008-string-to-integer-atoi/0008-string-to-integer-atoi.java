@@ -10,37 +10,34 @@ class Solution {
         // }else if(i < n && s.charAt(i)=='+'){
         //     i++;
         // }
-        // while (i < n && Character.isDigit(s.charAt(i))) {
-        //     int digit = s.charAt(i) - '0';
-
-        //     // Check overflow before multiplying by 10
-        //     if (ans > Integer.MAX_VALUE / 10 || (ans == Integer.MAX_VALUE / 10 && digit > 7)) {
+        // while(i<n && Character.isDigit(s.charAt(i))){
+        //     int dig=s.charAt(i)-'0';
+        //     if (ans > Integer.MAX_VALUE / 10 || (ans == Integer.MAX_VALUE / 10 && dig > 7)) {
         //         return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
         //     }
-
-        //     ans = (ans * 10) + digit;
+        //     ans=(ans*10)+dig;
         //     i++;
         // }
         // return ans*sign;
 
-        int ans=0,i=0,n=s.length(),sign=1;
-        while (i < n && s.charAt(i) == ' ') {
-            i++;
-        }
-        if(i < n && s.charAt(i)=='-'){
+        return skipSpace(s,0);
+    }
+    private int skipSpace(String s, int index){
+        if(index>=s.length()) return 0;
+        if(s.charAt(index)==' ') return skipSpace(s,index+1);
+        int sign =1;
+        if(s.charAt(index)=='-'){
             sign=-1;
-            i++;
-        }else if(i < n && s.charAt(i)=='+'){
-            i++;
+            index++;
+        }else if(s.charAt(index)=='+'){
+            index++;
         }
-        while(i<n && Character.isDigit(s.charAt(i))){
-            int dig=s.charAt(i)-'0';
-            if (ans > Integer.MAX_VALUE / 10 || (ans == Integer.MAX_VALUE / 10 && dig > 7)) {
-                return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
-            }
-            ans=(ans*10)+dig;
-            i++;
-        }
-        return ans*sign;
+        return parseDig(s,index,0,sign);
+    }
+    private int parseDig(String s, int index, int ans,int sign){
+        if(index>=s.length() || !Character.isDigit(s.charAt(index))) return ans*sign;
+        int dig=s.charAt(index)-'0';
+        if(ans> Integer.MAX_VALUE/10 || (ans== Integer.MAX_VALUE/10 && dig>7)) return sign==1?Integer.MAX_VALUE:Integer.MIN_VALUE;
+        return parseDig(s,index+1,(ans*10)+dig,sign);
     }
 }
