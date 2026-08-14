@@ -24,7 +24,9 @@ class Solution {
     }
     private int skipSpace(String s, int index){
         if(index>=s.length()) return 0;
+
         if(s.charAt(index)==' ') return skipSpace(s,index+1);
+
         int sign =1;
         if(s.charAt(index)=='-'){
             sign=-1;
@@ -36,8 +38,11 @@ class Solution {
     }
     private int parseDig(String s, int index, int ans,int sign){
         if(index>=s.length() || !Character.isDigit(s.charAt(index))) return ans*sign;
+        
         int dig=s.charAt(index)-'0';
+        
         if(ans> Integer.MAX_VALUE/10 || (ans== Integer.MAX_VALUE/10 && dig>7)) return sign==1?Integer.MAX_VALUE:Integer.MIN_VALUE;
+
         return parseDig(s,index+1,(ans*10)+dig,sign);
     }
 }
