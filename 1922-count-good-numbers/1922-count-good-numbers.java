@@ -5,7 +5,7 @@ class Solution {
 
         // FUNCTION CALL: EITHER FOR HELPER OR RECURSIVE FUNCTION 
         // long ans=power(5,evePow,mod) * power(4,oddPow,mod) % mod;
-        long ans=powerRecursive(5,evePow) * powerRecursive(4,oddPow) % mod;
+        long ans=(powerRecursive(5,evePow) * powerRecursive(4,oddPow)) % mod;
 
         return (int)ans;
 
