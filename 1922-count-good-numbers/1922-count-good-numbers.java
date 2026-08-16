@@ -1,9 +1,14 @@
 class Solution {
     public int countGoodNumbers(long n) {
         long evePow=(n+1)/2, oddPow=n/2,mod=1000000007;
-        // long ans=power(5,evePow,mod)*power(4,oddPow,mod)%mod;
-        long ans=powerRecursive(5,evePow,mod)*powerRecursive(4,oddPow,mod)%mod;
+
+        // FUNCTION CALL: EITHER FOR HELPER OR RECURSIVE FUNCTION 
+        // long ans=power(5,evePow,mod) * power(4,oddPow,mod) % mod;
+        long ans=powerRecursive(5,evePow,mod) * powerRecursive(4,oddPow,mod) % mod;
+
         return (int)ans;
+
+        // WITHOUT USING ANY FUNCTIONS:
 
         // long evePow=(n+1)/2, oddPow=n/2,base=0,ans=1,mod=1000000007;
         // base=5;
@@ -39,10 +44,10 @@ class Solution {
     private long powerRecursive(long base,long expo,long mod){
         if(expo==0) return 1;
         long half=powerRecursive(base,expo/2,mod);
-        long result=half*half%mod;
+        long ans=(half*half)%mod;
         if(expo%2==1){
-            result=result*base%mod;
+            ans=(ans*base)%mod;
         }
-        return result;
+        return ans;
     }
 }
