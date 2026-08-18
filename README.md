@@ -73,12 +73,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hamsini242007/LeetDaily/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Hamsini242007/LeetDaily/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hamsini242007/LeetDaily/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hamsini242007/LeetDaily/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
