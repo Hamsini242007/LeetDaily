@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Hamsini242007/LeetDaily/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hamsini242007/LeetDaily/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hamsini242007/LeetDaily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0142-linked-list-cycle-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Hamsini242007/LeetDaily/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hamsini242007/LeetDaily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Hamsini242007/LeetDaily/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Hamsini242007/LeetDaily/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Hamsini242007/LeetDaily/tree/master/1922-count-good-numbers) |
 ## String
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hamsini242007/LeetDaily/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Hamsini242007/LeetDaily/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Hamsini242007/LeetDaily/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
