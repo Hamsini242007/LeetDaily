@@ -8,7 +8,6 @@ class Solution {
         return ans;  
     }
     private void powerSet(int[] nums, List<Integer> sub, List<List<Integer>> ans, int index){
-        if(index>nums.length) return;
         for(int i=index;i<nums.length;i++){
             if(i>index && nums[i]==nums[i-1]) continue;
             sub.add(nums[i]);
