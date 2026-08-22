@@ -10,10 +10,9 @@ class Solution {
     private void powerSet(int[] nums, List<Integer> sub, List<List<Integer>> ans, int index){
         if(index>nums.length) return;
         for(int i=index;i<nums.length;i++){
+            if(i>index && nums[i]==nums[i-1]) continue;
             sub.add(nums[i]);
-            if(!ans.contains(sub)){
-                ans.add(new ArrayList<>(sub));
-            }
+            ans.add(new ArrayList<>(sub));
             powerSet(nums,sub,ans,i+1);
             sub.remove(sub.size()-1);
         }
