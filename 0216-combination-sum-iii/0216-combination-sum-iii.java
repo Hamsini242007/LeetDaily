@@ -6,12 +6,14 @@ class Solution {
         return ans;
     }
     private void combination(int k, int target, List<List<Integer>> ans, List<Integer> arr, int index){
-        if(arr.size()==k && target==0){
-            ans.add(new ArrayList<>(arr));
+        if(arr.size()==k){
+            if(target==0){
+                ans.add(new ArrayList<>(arr));
+            }
             return;
         }
-        if(target<0) return;
         for(int i=index;i<10;i++){
+            if(i>target) break;
             arr.add(i);
             combination(k,target-i,ans,arr,i+1);
             arr.remove(arr.size()-1);
