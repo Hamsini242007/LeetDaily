@@ -1,4 +1,4 @@
-SELECT c.name AS customers
+SELECT c.name AS Customers
 FROM customers AS c
 LEFT JOIN orders AS o
 ON c.id=o.customerId
