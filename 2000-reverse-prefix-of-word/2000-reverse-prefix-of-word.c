@@ -1,8 +1,10 @@
 char* reversePrefix(char* word, char ch) {
     int len=strlen(word);
     int top=-1;
-    char* rev=(char*)malloc(len*sizeof(char));
-    if(rev==NULL) return NULL;
+    char rev[len];
+    // char* rev=(char*)malloc(len*sizeof(char));
+    // if(rev==NULL) return NULL;
+
     for(int i=0;word[i]!='\0';i++){
         char l=word[i];
         rev[++top]=l;
