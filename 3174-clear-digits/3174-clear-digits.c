@@ -10,3 +10,4 @@ char* clearDigits(char* s) {
     stack[++top]='\0';
     return stack;
 }
+//can use 2 pointer approach
