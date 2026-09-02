@@ -4,7 +4,7 @@ char* clearDigits(char* s) {
     if(stack==NULL) return NULL;
     int top=-1;
     for(int i=0;i<len;i++){
-        if(isdigit(s[i])) top=(top>=0)?top-1:top;
+        if(isdigit(s[i])) top--;
         else stack[++top]=s[i];
     }
     stack[++top]='\0';
