@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Hamsini242007/LeetDaily/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Hamsini242007/LeetDaily/tree/master/3174-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Hamsini242007/LeetDaily/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Hamsini242007/LeetDaily/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0090-subsets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Hamsini242007/LeetDaily/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
