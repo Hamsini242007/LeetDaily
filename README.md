@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Hamsini242007/LeetDaily/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Hamsini242007/LeetDaily/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Hamsini242007/LeetDaily/tree/master/0610-triangle-judgement) |
+| [3570-find-books-with-no-available-copies](https://github.com/Hamsini242007/LeetDaily/tree/master/3570-find-books-with-no-available-copies) |
 ## Bit Manipulation
 |  |
 | ------- |
