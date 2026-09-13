@@ -1,14 +1,16 @@
 /**
  * @return {Function}
  */
-// var createHelloWorld = function() {
+var createHelloWorld = function() {
     
-//     // return function(...args) {
-//     //     return "Hello World";
-//     // }
-//     return (...args)=>"Hello World"
-// };
-var createHelloWorld =()=>(...args)=>"Hello World";
+    return function(...args) {
+        return "Hello World";
+    }
+    //instead of the above return block
+    // return (...args)=>"Hello World"
+};
+// single line solution
+// var createHelloWorld =()=>(...args)=>"Hello World";
 
 /**
  * const f = createHelloWorld();
