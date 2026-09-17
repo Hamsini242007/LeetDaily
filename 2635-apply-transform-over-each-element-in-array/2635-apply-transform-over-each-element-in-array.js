@@ -7,6 +7,7 @@ var map = function(arr, fn) {
     const temp=[];
     for(let i=0;i<arr.length;i++){
         temp[i]=fn(arr[i],i);
+        // temp.push(fn(arr[i],i));
     }
     return temp;
 };
