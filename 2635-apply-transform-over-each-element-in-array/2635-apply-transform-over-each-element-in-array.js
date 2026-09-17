@@ -4,10 +4,10 @@
  * @return {number[]}
  */
 var map = function(arr, fn) {
-    const temp=[];
+    // let temp = new Array(arr.length); // declaring arr with specific len
     for(let i=0;i<arr.length;i++){
-        temp[i]=fn(arr[i],i);
+        arr[i]=fn(arr[i],i);
         // temp.push(fn(arr[i],i));
     }
-    return temp;
+    return arr;
 };
