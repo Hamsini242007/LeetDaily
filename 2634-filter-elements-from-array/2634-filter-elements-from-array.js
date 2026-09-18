@@ -5,10 +5,9 @@
  */
 var filter = function(arr, fn) {
     let temp=[];
-    let j=0;
     for(let i=0;i<arr.length;i++){
         if(fn(arr[i],i)){
-            temp[j++]=arr[i];
+            temp.push(arr[i]);
         }
     }
     return temp;
