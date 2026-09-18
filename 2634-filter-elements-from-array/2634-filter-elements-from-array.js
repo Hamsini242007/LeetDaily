@@ -4,11 +4,13 @@
  * @return {number[]}
  */
 var filter = function(arr, fn) {
-    const temp=[];
+    const ans=[];
+    let j=0;
     for(let i=0;i<arr.length;i++){
         if(fn(arr[i],i)){
-            temp.push(arr[i]);
+            ans[j++]=arr[i];
+            //ans.push(arr[i]);
         }
     }
-    return temp;
+    return ans;
 };
