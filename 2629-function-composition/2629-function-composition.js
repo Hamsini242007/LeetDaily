@@ -5,9 +5,8 @@
 var compose = function(functions) {
     
     return function(x) {
-        let f;
         for(let i=functions.length-1;i>=0;i--){
-        f=functions[i];
+        const f=functions[i];
            x=f(x);
         }
         return x;
