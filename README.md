@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Hamsini242007/LeetDaily/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Hamsini242007/LeetDaily/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hamsini242007/LeetDaily/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Hamsini242007/LeetDaily/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Hamsini242007/LeetDaily/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Hamsini242007/LeetDaily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
