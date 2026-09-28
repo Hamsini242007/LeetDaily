@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hamsini242007/LeetDaily/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Hamsini242007/LeetDaily/tree/master/0048-rotate-image) |
 | [0090-subsets-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Hamsini242007/LeetDaily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Hamsini242007/LeetDaily/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Hamsini242007/LeetDaily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Hamsini242007/LeetDaily/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Hamsini242007/LeetDaily/tree/master/1922-count-good-numbers) |
 ## String
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hamsini242007/LeetDaily/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Hamsini242007/LeetDaily/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
