@@ -1,26 +1,22 @@
 bool checkValidString(char* s) {
-    int low = 0;
-    int high = 0;
-
-    for (int i = 0; s[i] != '\0'; i++) {
-        if (s[i] == '(') {
+    int low=0,high=0;
+    for (int i=0; s[i]!='\0'; i++) {
+        if (s[i]=='(') {
             low++;
             high++;
-        } else if (s[i] == ')') {
+        }else if (s[i]==')') {
             low--;
             high--;
-        } else { // s[i] == '*'
-            low--;  // treat as ')'
-            high++; // treat as '('
+        }else{
+            low--;
+            high++;
         }
-
         if (high < 0) {
-            return false; // Too many ')'
+            return false;
         }
         if (low < 0) {
-            low = 0; // Reset low because count of open brackets can't be negative
+            low = 0;
         }
     }
-
     return low == 0;
 }
