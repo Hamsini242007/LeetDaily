@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Hamsini242007/LeetDaily/tree/master/2000-reverse-prefix-of-word) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Hamsini242007/LeetDaily/tree/master/2000-reverse-prefix-of-word) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Hamsini242007/LeetDaily/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Hamsini242007/LeetDaily/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Hamsini242007/LeetDaily/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
