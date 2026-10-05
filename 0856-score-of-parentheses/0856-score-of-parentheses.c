@@ -6,8 +6,8 @@ int scoreOfParentheses(char* s) {
         }else{
             depth--; 
             if(s[i-1]=='('){
-                // ans+=pow(2,depth);
-                ans+= 1<<depth;
+                ans+=pow(2,depth);
+                // ans+= 1<<depth;
             }
         }
     i++;
