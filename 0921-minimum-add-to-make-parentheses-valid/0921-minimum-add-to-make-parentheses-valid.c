@@ -10,15 +10,12 @@ int minAddToMakeValid(char* s) {
     //     i++;
     // }
     // return top+1;
-    int i=0, count=0,open=0;
-    while(s[i]!='\0'){
-        if(s[i]=='('){
-            open++;
-        }else{
-            if(open>0) open--;
-            else count++;
-        }
-        i++;
+    int count=0,open=0;
+    while(*s){
+        if(*s=='(') open++;
+        else if(open>0) open--;
+        else count++;
+        s++;
     }
     return open+count;
 }
