@@ -21,8 +21,6 @@ struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
     for(int i=0;i<count-n-1;i++){
         temp=temp->next;
     }
-    if(temp->next!=NULL)
     temp->next=temp->next->next;
-    else temp->next=NULL;
     return head;
 }
