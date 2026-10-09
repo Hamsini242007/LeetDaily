@@ -6,7 +6,7 @@
  * };
  */
 struct ListNode *detectCycle(struct ListNode *head) {
-    if(!head || !head->next) return NULL;
+    //if(!head || !head->next) return NULL;
     struct ListNode* fast=head;
     struct ListNode* slow=head;
     while(fast && fast->next){
