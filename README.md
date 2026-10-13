@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Hamsini242007/LeetDaily/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Hamsini242007/LeetDaily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Hamsini242007/LeetDaily/tree/master/0056-merge-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Hamsini242007/LeetDaily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hamsini242007/LeetDaily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Hamsini242007/LeetDaily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
