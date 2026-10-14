@@ -1,15 +1,31 @@
+#include <stdlib.h>
+
 char* maxSumOfSquares(int num, int sum) {
-    if(sum>9*num || sum<0) return "";
-    static char str[200001];
-    for(int i=0;i<num;i++){
-        for(int j=9;j>=0;j--){
-            if(sum-j<=9*(num-1-i) && sum-j>=0){
-                str[i]=(j+'0');
-                sum-=j;
-                break;
-            }
-        }
+    if (sum > 9 * num) {
+        char* empty = (char*)malloc(1);
+        empty[0] = '\0';
+        return empty;
     }
-    str[num]='\0';
-    return str;
+    
+    int r = sum % 9;
+    char* ans = (char*)malloc(num + 1);
+    if (!ans) return NULL;
+    
+    int idx = 0;
+    int nines = sum / 9;
+    
+    for (int i = 0; i < nines; i++) {
+        ans[idx++] = '9';
+    }
+    
+    if (r > 0) {
+        ans[idx++] = '0' + r;
+    }
+    
+    while (idx < num) {
+        ans[idx++] = '0';
+    }
+    
+    ans[idx] = '\0';
+    return ans;
 }
