@@ -1,5 +1,5 @@
 char* maxSumOfSquares(int num, int sum) {
-    if(sum>9*num) return "";
+    if(sum>9*num || sum<0) return "";
     static char str[200001];
     for(int i=0;i<num;i++){
         for(int j=9;j>=0;j--){
