@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hamsini242007/LeetDaily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Hamsini242007/LeetDaily/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Hamsini242007/LeetDaily/tree/master/1922-count-good-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Hamsini242007/LeetDaily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hamsini242007/LeetDaily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Hamsini242007/LeetDaily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hamsini242007/LeetDaily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
