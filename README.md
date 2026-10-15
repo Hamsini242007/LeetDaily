@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Hamsini242007/LeetDaily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hamsini242007/LeetDaily/tree/master/0160-intersection-of-two-linked-lists) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hamsini242007/LeetDaily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Hamsini242007/LeetDaily/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hamsini242007/LeetDaily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hamsini242007/LeetDaily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Hamsini242007/LeetDaily/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hamsini242007/LeetDaily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hamsini242007/LeetDaily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
