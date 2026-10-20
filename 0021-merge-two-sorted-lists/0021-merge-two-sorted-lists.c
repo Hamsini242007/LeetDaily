@@ -6,32 +6,28 @@
  * };
  */
 struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2) {
-    struct ListNode* h1=list1;
-    struct ListNode* h2=list2;
-    struct ListNode* head;
-    struct ListNode* new;
-    if(!h1) return h2;
-    if(!h2) return h1;
-    if(h1->val<h2->val){
-        head=h1;
-        h1=h1->next;
-    }else{
-        head=h2;
-        h2=h2->next;
-    }
-    new=head;
-    while(h1 && h2){
-        if(h1->val<h2->val){
-            new->next=h1;
-            new=new->next;
-            h1=h1->next;
+    struct ListNode head;
+    struct ListNode* new=&head;
+    // if(!list1) return list2;
+    // if(!list2) return list1;
+    // if(list1->val<list2->val){
+    //     head=list1;
+    //     list1=list1->next;
+    // }else{
+    //     head=list2;
+    //     list2=list2->next;
+    // }
+    // new=head;
+    while(list1 && list2){
+        if(list1->val<list2->val){
+            new->next=list1;
+            list1=list1->next;
         }else{
-            new->next=h2;
-            new=new->next;
-            h2=h2->next;
+            new->next=list2;
+            list2=list2->next;
         }
+        new=new->next;
     }
-    if(h1) new->next=h1;
-    else new->next=h2;
-    return head;
+    new->next= list1? list1:list2;
+    return head.next;
 }
