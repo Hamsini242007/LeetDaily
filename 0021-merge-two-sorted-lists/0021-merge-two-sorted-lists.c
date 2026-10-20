@@ -22,3 +22,4 @@ struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2) {
     new->next= list1? list1:list2;
     return head.next;
 }
+//recursive
