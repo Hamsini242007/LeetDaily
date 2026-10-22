@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Hamsini242007/LeetDaily/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hamsini242007/LeetDaily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hamsini242007/LeetDaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0234-palindrome-linked-list) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Hamsini242007/LeetDaily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hamsini242007/LeetDaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0876-middle-of-the-linked-list) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Hamsini242007/LeetDaily/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hamsini242007/LeetDaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hamsini242007/LeetDaily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hamsini242007/LeetDaily/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hamsini242007/LeetDaily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
