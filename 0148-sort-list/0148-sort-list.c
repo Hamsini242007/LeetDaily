@@ -24,15 +24,9 @@ struct ListNode* helper(struct ListNode* h1, struct ListNode* h2){
 }
 struct ListNode* sortList(struct ListNode* head) {
     if(!head || !head->next) return head;
-    struct ListNode* fast=head;
-    int count=0;
-    while(fast){
-        count++;
-        fast=fast->next;
-    }
     struct ListNode* slow=head;
+    struct ListNode* fast=head;
     struct ListNode* prev;
-    fast=head;
     while(fast && fast->next){
         prev=slow;
         slow=slow->next;
