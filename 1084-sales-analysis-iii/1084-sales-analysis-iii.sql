@@ -6,5 +6,7 @@ WHERE product_id NOT IN(
     WHERE sale_date NOT BETWEEN '2019-01-01' AND '2019-03-31'
 )
 AND product_id IN(
-    SELECT product_id FROM sales
+    SELECT product_id
+    FROM sales
+    WHERE sale_date BETWEEN '2019-01-01' AND '2019-03-31'
 );
