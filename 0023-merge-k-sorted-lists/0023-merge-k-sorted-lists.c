@@ -25,12 +25,21 @@ struct ListNode* merge(struct ListNode* h1,struct ListNode* h2){
         return h.next;
     }
 }
+struct ListNode* sort(struct ListNode** lists, int start,int end){
+    if(start>end) return NULL;
+    if(start==end) return lists[start];
+    int mid=start+(end-start)/2;
+    struct ListNode* left=sort(lists,start,mid);
+    struct ListNode* right=sort(lists,mid+1,end);
+    return merge(left,right);
+}
 struct ListNode* mergeKLists(struct ListNode** lists, int listsSize) {
     if(listsSize<1) return NULL;
-    struct ListNode* old=lists[0];
-    for(int i=1;i<listsSize;i++){
-        struct ListNode* curr=lists[i];
-        old=merge(old,curr);
-    }
-    return old;
+    // struct ListNode* old=lists[0];
+    // for(int i=1;i<listsSize;i++){
+    //     struct ListNode* curr=lists[i];
+    //     old=merge(old,curr);
+    // }
+    // return old;
+    return sort(lists,0,listsSize-1);
 }
