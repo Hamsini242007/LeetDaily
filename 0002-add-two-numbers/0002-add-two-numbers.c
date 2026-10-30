@@ -9,6 +9,7 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
     int c=0, sum;
     struct ListNode dummy;
     struct ListNode* tail=&dummy;
+    dummy.next=NULL;
     while(l1 || l2 || c){
         sum=c;
         if(l1){
