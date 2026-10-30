@@ -9,7 +9,6 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
     int c=0, sum;
     struct ListNode dummy;
     struct ListNode* tail=&dummy;
-    dummy.next=NULL;
     while(l1 || l2 || c){
         sum=c;
         if(l1){
@@ -23,8 +22,8 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
         tail->next=(struct ListNode*)malloc(sizeof(struct ListNode));
         tail=tail->next;
         tail->val=sum%10;
-        tail->next=NULL;
         c=sum/10;
     }
+        tail->next=NULL;
     return dummy.next;
 }
