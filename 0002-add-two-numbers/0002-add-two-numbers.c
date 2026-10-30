@@ -22,8 +22,8 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
         tail->next=(struct ListNode*)malloc(sizeof(struct ListNode));
         tail=tail->next;
         tail->val=sum%10;
+        tail->next=NULL;
         c=sum/10;
     }
-    tail->next=NULL;
     return dummy.next;
 }
