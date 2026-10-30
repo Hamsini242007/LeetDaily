@@ -19,9 +19,10 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
             sum+=l2->val;
             l2=l2->next;
         }
-        tail->next=(struct ListNode*)malloc(sizeof(struct ListNode));
-        tail=tail->next;
-        tail->val=sum%10;
+        struct ListNode* new=(struct ListNode*)malloc(sizeof(struct ListNode));
+        new->val=sum%10;
+        tail->next=new;
+        tail=new;
         c=sum/10;
     }
         tail->next=NULL;
