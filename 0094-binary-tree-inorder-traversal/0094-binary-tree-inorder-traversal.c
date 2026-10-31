@@ -24,5 +24,6 @@ int* inorderTraversal(struct TreeNode* root, int* returnSize) {
         res[(*returnSize)++]=curr->val;
         curr=curr->right;
     }
+    free(stack);
     return res;
 }
