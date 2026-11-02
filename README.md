@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Hamsini242007/LeetDaily/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Hamsini242007/LeetDaily/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hamsini242007/LeetDaily/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hamsini242007/LeetDaily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0142-linked-list-cycle-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Hamsini242007/LeetDaily/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Hamsini242007/LeetDaily/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Hamsini242007/LeetDaily/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Hamsini242007/LeetDaily/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Hamsini242007/LeetDaily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hamsini242007/LeetDaily/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Hamsini242007/LeetDaily/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
