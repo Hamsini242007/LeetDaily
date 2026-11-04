@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Hamsini242007/LeetDaily/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Hamsini242007/LeetDaily/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Hamsini242007/LeetDaily/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Hamsini242007/LeetDaily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Hamsini242007/LeetDaily/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Hamsini242007/LeetDaily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hamsini242007/LeetDaily/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Hamsini242007/LeetDaily/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Hamsini242007/LeetDaily/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Hamsini242007/LeetDaily/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hamsini242007/LeetDaily/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Hamsini242007/LeetDaily/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Hamsini242007/LeetDaily/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Hamsini242007/LeetDaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hamsini242007/LeetDaily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hamsini242007/LeetDaily/tree/master/0145-binary-tree-postorder-traversal) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hamsini242007/LeetDaily/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
