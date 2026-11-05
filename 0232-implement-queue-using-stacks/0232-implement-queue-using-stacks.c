@@ -26,14 +26,14 @@ int myQueuePop(MyQueue* obj) {
     if(obj->top2==-1)
     while( obj->top1!=-1)
         obj->stack2[++(obj->top2)]=obj->stack1[(obj->top1)--];
-    return obj->top2!=-1?obj->stack2[(obj->top2)--]:-1;
+    return obj->stack2[(obj->top2)--];
 }
 
 int myQueuePeek(MyQueue* obj) {
     if(obj->top2==-1)
     while(obj->top1!=-1)
         obj->stack2[++(obj->top2)]=obj->stack1[(obj->top1)--];
-    return obj->top2!=-1?obj->stack2[obj->top2]:-1;
+    return obj->stack2[obj->top2];
 }
 
 
