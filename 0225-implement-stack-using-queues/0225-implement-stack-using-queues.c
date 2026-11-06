@@ -1,6 +1,3 @@
-
-
-
 typedef struct {
     int q[5100];
     int front,rear;
