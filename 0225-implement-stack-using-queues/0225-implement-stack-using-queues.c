@@ -2,7 +2,7 @@
 
 
 typedef struct {
-    int q[6000];
+    int q[5999];
     int front,rear;
 } MyStack;
 
