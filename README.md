@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Hamsini242007/LeetDaily/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Hamsini242007/LeetDaily/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Hamsini242007/LeetDaily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Hamsini242007/LeetDaily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Hamsini242007/LeetDaily/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hamsini242007/LeetDaily/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Hamsini242007/LeetDaily/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Hamsini242007/LeetDaily/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hamsini242007/LeetDaily/tree/master/2089-find-target-indices-after-sorting-array) |
