@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Hamsini242007/LeetDaily/tree/master/0118-pascals-triangle) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Hamsini242007/LeetDaily/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Hamsini242007/LeetDaily/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Hamsini242007/LeetDaily/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
