@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Hamsini242007/LeetDaily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hamsini242007/LeetDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Hamsini242007/LeetDaily/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Hamsini242007/LeetDaily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hamsini242007/LeetDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
