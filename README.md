@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Hamsini242007/LeetDaily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Hamsini242007/LeetDaily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Hamsini242007/LeetDaily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/Hamsini242007/LeetDaily/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Hamsini242007/LeetDaily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Hamsini242007/LeetDaily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hamsini242007/LeetDaily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
