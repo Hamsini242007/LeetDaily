@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Hamsini242007/LeetDaily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hamsini242007/LeetDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
