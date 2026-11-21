@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hamsini242007/LeetDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Hamsini242007/LeetDaily/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hamsini242007/LeetDaily/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Hamsini242007/LeetDaily/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hamsini242007/LeetDaily/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hamsini242007/LeetDaily/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
