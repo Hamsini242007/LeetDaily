@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Hamsini242007/LeetDaily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Hamsini242007/LeetDaily/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Hamsini242007/LeetDaily/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Hamsini242007/LeetDaily/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hamsini242007/LeetDaily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hamsini242007/LeetDaily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Hamsini242007/LeetDaily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hamsini242007/LeetDaily/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Hamsini242007/LeetDaily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Hamsini242007/LeetDaily/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Hamsini242007/LeetDaily/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Hamsini242007/LeetDaily/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hamsini242007/LeetDaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hamsini242007/LeetDaily/tree/master/3727-maximum-alternating-sum-of-squares) |
