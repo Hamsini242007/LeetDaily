@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Hamsini242007/LeetDaily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Hamsini242007/LeetDaily/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Hamsini242007/LeetDaily/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Hamsini242007/LeetDaily/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Hamsini242007/LeetDaily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Hamsini242007/LeetDaily/tree/master/0238-product-of-array-except-self) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Hamsini242007/LeetDaily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Hamsini242007/LeetDaily/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Hamsini242007/LeetDaily/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0507-perfect-number) |
 | [1922-count-good-numbers](https://github.com/Hamsini242007/LeetDaily/tree/master/1922-count-good-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Hamsini242007/LeetDaily/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Hamsini242007/LeetDaily/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Hamsini242007/LeetDaily/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Indexed Tree
 |  |
@@ -372,4 +375,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hamsini242007/LeetDaily/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Hamsini242007/LeetDaily/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Hamsini242007/LeetDaily/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Hamsini242007/LeetDaily/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Hamsini242007/LeetDaily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
