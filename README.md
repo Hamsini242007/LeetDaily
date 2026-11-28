@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Hamsini242007/LeetDaily/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Hamsini242007/LeetDaily/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Hamsini242007/LeetDaily/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/Hamsini242007/LeetDaily/tree/master/0507-perfect-number) |
 | [1922-count-good-numbers](https://github.com/Hamsini242007/LeetDaily/tree/master/1922-count-good-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Hamsini242007/LeetDaily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
